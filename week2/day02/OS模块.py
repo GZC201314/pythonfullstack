@@ -30,6 +30,17 @@ import os
 
 # 获取文件的文件夹路径
 # print(os.path.dirname('E:\\fullstack\\week2\\day02\\log1.txt'))
-print(os.path.join('E:\\fullstack\\week2\\day02\\','log1.txt','log123.txt'))
+# print(os.path.join('E:\\fullstack\\week2\\day02\\','log1.txt','log123.txt'))
 
+# 删除文件
+# os.remove("G:/新建文件夹/")
+# 删除空文件夹
+# os.removedirs("G:/新建文件夹/")
+
+# 文件夹下面的文件信息
+
+list = os.listdir("G:/新建文件夹/")
+
+for i in list:
+    print(i)
 
