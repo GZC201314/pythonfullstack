@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9052093e-0d2f-4bfc-9c2b-63cd4f3d5390" name="默认的" comment="提交time和random模块代码">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="9052093e-0d2f-4bfc-9c2b-63cd4f3d5390" name="默认的" comment="提交config模块代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/day02/Configparsre模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/day02/Configparsre模块.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/day02/example.ini" beforeDir="false" afterPath="$PROJECT_DIR$/week2/day02/example.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/day02/log/log1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week2/day02/log/log1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/day02/日志模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/day02/日志模块.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week2/day02/example.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -197,8 +193,8 @@
         <option value="$PROJECT_DIR$/week2/day02/Hashlib模块.py" />
         <option value="$PROJECT_DIR$/week2/day02/日志模块.py" />
         <option value="$PROJECT_DIR$/week2/day02/log/log1.txt" />
-        <option value="$PROJECT_DIR$/week2/day02/example.ini" />
         <option value="$PROJECT_DIR$/week2/day02/Configparsre模块.py" />
+        <option value="$PROJECT_DIR$/week2/day02/example.ini" />
       </list>
     </option>
   </component>
@@ -569,25 +565,33 @@
       <option name="project" value="LOCAL" />
       <updated>1592636195243</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="提交config模块代码">
+      <created>1592723685500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592723685500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="0" width="1290" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30272108" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920127" visible="true" weight="0.30464327" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920127" weight="0.30464327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42129105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="运行" order="7" weight="0.81240064" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3295583" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007987" side_tool="true" weight="0.30464327" />
@@ -610,7 +614,8 @@
     <MESSAGE value="列表生成式" />
     <MESSAGE value="生成器" />
     <MESSAGE value="提交time和random模块代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交time和random模块代码" />
+    <MESSAGE value="提交config模块代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交config模块代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -965,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/day02/example.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
