@@ -23,6 +23,14 @@ config.read('example.ini')
 # 除DEFAULT 模块外的其他模块
 print(config.sections())
 # 获取DEFAULT模块的配置项
-print(config.defaults())
+print(config.defaults().get('servraliveintrval'))
+
+# 获取任意配置项
+print(config['DEFAULT1']['servraliveintrval'])
+config['DEFAULT1']['servraliveintrval']='100'
 
 # 删除配置项
+config.remove_section('GZC')
+
+with open('example.ini','w') as config1:
+    config.write(config1)
