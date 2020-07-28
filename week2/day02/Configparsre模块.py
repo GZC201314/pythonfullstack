@@ -30,7 +30,11 @@ print(config['DEFAULT1']['servraliveintrval'])
 config['DEFAULT1']['servraliveintrval']='100'
 
 # 删除配置项
+# 删除块下面的一个配置项
+config.remove_option('GZC','age')
+# 删除一个块
 config.remove_section('GZC')
+
 
 with open('example.ini','w') as config1:
     config.write(config1)
