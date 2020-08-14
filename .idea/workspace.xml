@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9052093e-0d2f-4bfc-9c2b-63cd4f3d5390" name="默认的" comment="提交config模块代码">
+    <list default="true" id="9052093e-0d2f-4bfc-9c2b-63cd4f3d5390" name="默认的" comment="同步">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,95 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day02/正则表达式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week08/day51/条件变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week08/day51/同步条件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week08/day51/同步条件2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week08/day51/队列.py">
+        <entry file="file://$PROJECT_DIR$/week07/day36/db.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day02/日志模块.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-              <folding>
-                <element signature="e#52#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day02/log/log1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day02/log1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day03/json 模块.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/day03/JSON_text">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -127,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -139,6 +56,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/week08/day51/队列.py" root0="SKIP_INSPECTION" />
@@ -146,14 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week1/day08/file.py" />
-        <option value="$PROJECT_DIR$/week2/day01/函数.py" />
-        <option value="$PROJECT_DIR$/week2/day01/回顾.py" />
-        <option value="$PROJECT_DIR$/week2/day01/递归.py" />
-        <option value="$PROJECT_DIR$/week2/day01/内置函数.py" />
-        <option value="$PROJECT_DIR$/week2/day02/装饰器.py" />
-        <option value="$PROJECT_DIR$/week2/day01/装饰器.py" />
-        <option value="$PROJECT_DIR$/week2/day02/log.txt" />
         <option value="$PROJECT_DIR$/week2/day02/多层装饰器.py" />
         <option value="$PROJECT_DIR$/week2/day02/生成器'.py" />
         <option value="$PROJECT_DIR$/week2/day02/生成器.py" />
@@ -197,6 +109,14 @@
         <option value="$PROJECT_DIR$/week08/同步条件2.py" />
         <option value="$PROJECT_DIR$/week08/队列.py" />
         <option value="$PROJECT_DIR$/week08/day51/队列.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/School.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/bin/admin.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/bin/initialize.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/bin/student.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/bin/teacher.py" />
+        <option value="$PROJECT_DIR$/week08/day51/选课系统/lib/commons.py" />
+        <option value="$PROJECT_DIR$/test.ipynb" />
+        <option value="$PROJECT_DIR$/week07/day36/db.py" />
       </list>
     </option>
   </component>
@@ -207,9 +127,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="327" />
+    <option name="y" value="169" />
+    <option name="width" value="1940" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -219,68 +140,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="week03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="week03" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="week07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="week08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonfullstack" type="462c0819:PsiDirectoryNode" />
-              <item name="week08" type="462c0819:PsiDirectoryNode" />
-              <item name="day51" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonfullstack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EasyServerFTP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\fullstack\pythonfullstack\week2\day02\log" />
-      <recent name="E:\fullstack\week07" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\fullstack\pythonfullstack\week08\day51" />
       <recent name="E:\fullstack\week1\day08" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fullstack\pythonfullstack\week2\day02\log" />
+      <recent name="E:\fullstack\week07" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.正则表达式">
+  <component name="RunManager" selected="Python.db">
     <configuration name="正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,6 +210,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="E:\fullstack\pythonfullstack\week08\day51\同步条件2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="随机模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/day02/随机模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fullstack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03/day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03/day01/生成器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="随机模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fullstack" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -514,32 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week07/day36" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/day02/随机模块.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fullstack" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03/day01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03/day01/生成器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week07/day36/db.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,9 +452,11 @@
     <list>
       <item itemvalue="Python.正则表达式" />
       <item itemvalue="Python.同步条件2" />
+      <item itemvalue="Python.db" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.db" />
         <item itemvalue="Python.同步条件2" />
         <item itemvalue="Python.正则表达式" />
       </list>
@@ -619,18 +522,25 @@
       <option name="project" value="LOCAL" />
       <updated>1595915121518</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="同步">
+      <created>1596171536526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596171536526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="327" y="169" width="1940" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19631237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29365903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30272108" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85574836" weight="0.25254813" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85574836" visible="true" weight="0.5100529" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978308" weight="0.42129105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,7 +550,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295583" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4986945" weight="0.32881355" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.14425163" side_tool="true" visible="true" weight="0.25254813" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.14425163" side_tool="true" weight="0.24640884" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.29218572" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="15" visible="true" weight="0.33826247" />
@@ -661,7 +571,8 @@
     <MESSAGE value="生成器" />
     <MESSAGE value="提交time和random模块代码" />
     <MESSAGE value="提交config模块代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交config模块代码" />
+    <MESSAGE value="同步" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,64 +591,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1/day1/list_lesson.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/day1/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/day03/pickle 模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/day04/xml_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1624551471/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/week2/day05/Foo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/day01/内置函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/day01/回顾.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/day01/递归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week03/day02/单例模式.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -929,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week07/爬虫/爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/day02/example.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -981,13 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week08/day51/同步条件2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/day02/日志模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -1026,10 +865,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week08/day51/同步条件2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week08/day51/队列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/School.py" />
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/bin/admin.py" />
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/bin/initialize.py" />
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/bin/student.py" />
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/bin/teacher.py" />
+    <entry file="file://$PROJECT_DIR$/week08/day51/选课系统/lib/commons.py" />
+    <entry file="file://$PROJECT_DIR$/week07/爬虫/爬虫.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb" />
+    <entry file="file://$PROJECT_DIR$/week07/day36/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
